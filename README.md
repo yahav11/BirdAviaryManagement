@@ -343,7 +343,7 @@ Add screenshots of the system here.
 
 Example:
 
-![Main Screen](screenshots/main-screen.png)
+![Main Screen](screenshots/Dashboard.png)
 
 ## How to Run
 
