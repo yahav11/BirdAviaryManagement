@@ -156,9 +156,9 @@ Implements bird health-check logic used to update sale availability.
 
 Add screenshots of the system here.
 
-Example:
 
-![Main Screen](screenshots/main-screen.png)
+
+[Main Screen](screenshots/Dashboard.png)
 
 ## How to Run
 
@@ -337,11 +337,6 @@ Defines a health-check service interface.
 
 Implements bird health-check logic used to update sale availability.
 
-## Screenshots
-
-Add screenshots of the system here.
-
-[Main Screen](screenshots/Dashboard.png)
 
 ## How to Run
 
