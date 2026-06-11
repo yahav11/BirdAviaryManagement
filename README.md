@@ -341,9 +341,7 @@ Implements bird health-check logic used to update sale availability.
 
 Add screenshots of the system here.
 
-Example:
-
-![Main Screen](screenshots/Dashboard.png)
+[Main Screen](screenshots/Dashboard.png)
 
 ## How to Run
 
